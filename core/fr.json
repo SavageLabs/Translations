@@ -34,5 +34,6 @@
     "positionChangedTeleportWarmup": "&7Vous avez bougé, téléportation annulé.",
     "commandShowBarElement": "&8&m=",
     "commandAdminKickNotify": "&7Vous avez été &6expulsé&7 de votre faction par un administrateur.",
-    "commandUpgradeGlobalUpgraded": "&6%1$s&7 a été mis à jour &6%2$s&7."
+    "commandUpgradeGlobalUpgraded": "&6%1$s&7 a été mis à jour &6%2$s&7.",
+    "messagePrefix": "&7[&6?&7] "
 }
