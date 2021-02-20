@@ -1,5 +1,5 @@
 {
-    "commandRequirementsNotAFactionLeader": "&cCette commande exige que l'exécuteur soit un chef de faction.",
+    "commandRequirementsNotAFactionLeader": "&cCette commande exige que vous soyez un chef de faction.",
     "commandRequirementsNotEnoughMoneyInBank": "&cVotre banque ne dispose pas des $%1$s nécessaires pour exécuter cette commande, déposez plus.",
     "commandRequirementsPlayerDoesNotHavePermission": "&cCette commande nécessite l'autorisation %1$s",
     "commandPaidFor": "&7Vous avez payé $%1$s de votre banque pour exécuter cette commande.",
@@ -11,7 +11,7 @@
     "commandHelpGeneratorBackgroundColor": "GRIS",
     "commandHelpGeneratorNotRequired": "&cNon&r",
     "commandHelpGeneratorRequires": "&aOui&r",
-    "commandHelpGeneratorFactionRequired": "&7Membre de la faction requis: %1$s",
+    "commandHelpGeneratorFactionRequired": "&7Membre de la faction requis : %1$s",
     "commandHelpGeneratorClickMeToPaste": "&7Clique pour autocompléter.",
     "commandHelpGeneratorGoTopage": "&7Aller à la page &6%1$s&7.",
     "commandHelpGeneratorPageNavBack": "&6<<<",
@@ -24,16 +24,19 @@
     "commandEngineFormatOptionalTooltip": "L'argument est optionnel",
     "commandAdminPowerInvalidPowerTarget": "Cible de pouvoir invalide, utilisé &6current&7 ou &6max",
     "commandAdminPowerHelp": "Gérer le pouvoir d'un joueur",
-    "commandAdminPowerSetHelp": "définir la puissance d'un joueur",
+    "commandAdminPowerSetHelp": "Définir le power d'un joueur",
     "commandAdminKickNotInFaction": "&7Le joueur &6%1$s&7 ne fais pas parti d'une faction.",
     "commandUpgradeHelp": "afficher le menu principal des mises à jour.",
     "commandRequirementsNotAPlayer": "&cCette commande nécessite que l'exécuteur soit un joueur.",
     "commandRequirementsDontHaveAction": "&cVotre faction ne vous permet pas de faire cela, elle nécessite l'action %1$s.",
     "commandBaseHelp": "&7La commande de base pour les factions.",
-    "commandRequirementsNotAFactionMember": "&cCette commande nécessite que l'exécuteur soit membre d'une faction, créez la vôtre en utilisant \"/f create\".",
+    "commandRequirementsNotAFactionMember": "&cCette commande nécessite une faction, créez la vôtre en utilisant \"/f create\".",
     "positionChangedTeleportWarmup": "&7Vous avez bougé, téléportation annulé.",
     "commandShowBarElement": "&8&m=",
     "commandAdminKickNotify": "&7Vous avez été &6expulsé&7 de votre faction par un administrateur.",
     "commandUpgradeGlobalUpgraded": "&6%1$s&7 a été mis à jour &6%2$s&7.",
-    "messagePrefix": "&7[&6?&7] "
+    "messagePrefix": "&7[&6?&7] ",
+    "commandAdminKickLeader": "&7Ce joueur &6%1$s&7 est le chef de la faction , utilisez &6/fx disband&7 ou &6/fx demote&7 avant.",
+    "commandAdminKickHelp": "Kicker un joueur de leur propre faction.",
+    "commandAdminKickSuccess": "&7Vous avez expulsé &6%1$s&7 de ca propre faction."
 }
