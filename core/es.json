@@ -1,3 +1,4 @@
 {
-    "messagePrefix": "&7[&6?&7] "
+    "messagePrefix": "&7[&6?&7] ",
+    "commandRequirementsNotAPlayer": "& cEste comando requiere que el ejecutor sea un jugador."
 }
