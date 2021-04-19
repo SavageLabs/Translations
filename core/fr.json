@@ -1,5 +1,5 @@
 {
-    "commandRequirementsNotAFactionLeader": "&cCette commande exige que vous soyez un chef de faction.",
+    "commandRequirementsNotAFactionLeader": "&cCette commande exige que l'exécuteur soit un chef de faction.",
     "commandRequirementsNotEnoughMoneyInBank": "&cVotre banque ne dispose pas des $%1$s nécessaires pour exécuter cette commande, déposez plus.",
     "commandRequirementsPlayerDoesNotHavePermission": "&cCette commande nécessite l'autorisation %1$s",
     "commandPaidFor": "&7Vous avez payé $%1$s de votre banque pour exécuter cette commande.",
@@ -30,7 +30,7 @@
     "commandRequirementsNotAPlayer": "&cCette commande nécessite que l'exécuteur soit un joueur.",
     "commandRequirementsDontHaveAction": "&cVotre faction ne vous permet pas de faire cela, elle nécessite l'action %1$s.",
     "commandBaseHelp": "&7La commande de base pour les factions.",
-    "commandRequirementsNotAFactionMember": "&cCette commande nécessite une faction, créez la vôtre en utilisant \"/f create\".",
+    "commandRequirementsNotAFactionMember": "&cCette commande nécessite que l'exécuteur soit membre d'une faction, créez la vôtre en utilisant \"/ f create\".",
     "positionChangedTeleportWarmup": "&7Vous avez bougé, téléportation annulé.",
     "commandShowBarElement": "&8&m=",
     "commandAdminKickNotify": "&7Vous avez été &6expulsé&7 de votre faction par un administrateur.",
