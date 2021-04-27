@@ -388,5 +388,15 @@
     "commandCoordsHelp": "fournir à votre faction vos coord actuels.",
     "listenerCannotHurtOwnFaction": "&7Vous n’avez pas le droit de blesser des membres de votre propre faction.",
     "blockBreakDeniedEnemyNearby": "&7Vous ne pouvez pas casser &6%1$s&7 car un ennemi est à proximité",
-    "shieldStarted": "&7Le bouclier de votre faction a commencé !"
+    "shieldStarted": "&7Le bouclier de votre faction a commencé !",
+    "commandAdminPowerSetSuccessfully": "&7Changé &6%1$s's&7 power pour &6%2$s&7/&6%3$s&7.",
+    "commandAdminClaimNonNegativeRadius": "&7Le rayon donné ne peut pas être négatif.",
+    "commandAdminClaimHelp": "claim pour d’autres factions.",
+    "commandSeeChunkToggle": "&7Chunk frontières sont maintenant &6%1$s&7.",
+    "commandSeeChunkHelp": "&7Basculer les bordures de particules.",
+    "relationMax": "Vous ne pouvez pas définir plus de &6%1$s&7 factions. Mettez à niveau &6%1$s&7 la limite de faction pour en avoir plus.",
+    "commandAdminDisbandSystemFac": "Vous ne pouvez pas disband une faction &6système&7.",
+    "commandAdminDisbandNotify": "&7Votre faction a été &6disband&7 par un administrateur.",
+    "commandCreditsRemove": "&7Vous avez pris &6%1$s &7en crédits de &6%2$s!",
+    "commandPermsRelationOverriden": "&7Cette autorisation est &6dérogation&7 par le serveur et &6DOIT&7 être &6%1$s."
 }
